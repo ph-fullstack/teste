@@ -27,7 +27,7 @@ body {
   align-items: center;
   gap: 1rem;
   background-color: #0d0d0d;
-  background-image: linear-gradient(135deg, #151515, #020202);
+  background-image: linear-gradient(135deg, #363636, #020202);
 }
 
 .title {
